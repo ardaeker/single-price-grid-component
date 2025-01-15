@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor ↗](https://your-solution-url.com)
-- Live Site URL: [Open on Vercel ↗](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor ↗](https://www.frontendmentor.io/solutions/single-price-grid-component-kJDXE114Hq)
+- Live Site URL: [Open on Vercel ↗](https://single-price-grid-component-inky-sigma.vercel.app)
 
 ## Built with
 
