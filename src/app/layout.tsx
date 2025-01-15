@@ -32,7 +32,9 @@ export const metadata: Metadata = {
     'TypeScript',
     'Arda Eker',
   ],
-  metadataBase: new URL('http://localhost:3000'),
+  metadataBase: new URL(
+    'https://single-price-grid-component-inky-sigma.vercel.app/',
+  ),
   openGraph: {
     title: 'Frontend Mentor - Single price grid component',
     description:
@@ -45,7 +47,7 @@ export const metadata: Metadata = {
     ],
   },
   alternates: {
-    canonical: 'http://localhost:3000',
+    canonical: 'https://single-price-grid-component-inky-sigma.vercel.app',
   },
   icons: {
     icon: '/favicon.png',
