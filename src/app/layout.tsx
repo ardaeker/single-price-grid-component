@@ -14,7 +14,7 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: 'Frontend Mentor - Single price grid component',
+  title: 'Single price grid component',
   description:
     'This website is a solution for the Single price grid component challenge on Frontend Mentor. It is built with Next.js and Tailwind CSS. Coded by Arda Eker.',
   authors: {
@@ -36,10 +36,10 @@ export const metadata: Metadata = {
     'https://single-price-grid-component-inky-sigma.vercel.app/',
   ),
   openGraph: {
-    title: 'Frontend Mentor - Single price grid component',
+    title: 'Arda Eker - Single price grid component',
     description:
-      'This website is a solution to the Single price grid component challenge on Frontend Mentor. It is built with Next.js, Tailwind CSS, and TypeScript. Coded by Arda Eker.',
-    siteName: 'Frontend Mentor - Single price grid component',
+      'A clean, mobile-first pricing grid with semantic HTML and SEO-friendly structure.',
+    siteName: 'Single price grid component',
     images: [
       {
         url: 'open-graph-image.png',
