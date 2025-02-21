@@ -16,7 +16,7 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   title: 'Arda Eker - Single price grid component',
   description:
-    'This website is a solution for the Single price grid component challenge on Frontend Mentor. It is built with Next.js and Tailwind CSS. Coded by Arda Eker.',
+    'A clean, mobile-first pricing grid with semantic HTML and SEO-friendly structure.',
   authors: {
     name: 'Arda Eker',
     url: 'https://github.com/ardaeker',
@@ -48,9 +48,6 @@ export const metadata: Metadata = {
   },
   alternates: {
     canonical: 'https://single-price-grid-component-inky-sigma.vercel.app',
-  },
-  icons: {
-    icon: '/favicon.png',
   },
 };
 
